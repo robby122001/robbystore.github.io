@@ -1,0 +1,58 @@
+h1{
+    color:darkorange;
+    width: 1140px;
+    font-size: 80px;
+    text-align: justify-all;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+h2{
+    color:darkslategrey;
+    width: 1140px;
+    font-size : 30px;
+    font-family: cursive;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.first,.second, .third, .fourth, .last{
+    color:darkblue;
+    width: 1140px;
+    font-family:fantasy;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    
+}
+body{
+    background-image:url(jason-leung-479251-unsplash.jpg);
+    background-size: 100% 1140px;
+    background-repeat:no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+     
+}
+
+.about {
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    
+}
+
+
+.pic{
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+
+
+.submit{
+    font-family: fantasy;
+}
